@@ -1,0 +1,646 @@
+    1  sudo passwd root
+    2  sudo apt update
+    3  apt list --upgradable
+    4  sudo apt update[2~[H
+    5  sudo apt upgrade
+    6  ifconfig
+    7  shutdown -h now
+    8  sudo apt-get install pip
+    9  sudo apt-get install virtualenv
+   10  pip install fritzing
+   11  sudo apt-get install fritzing
+   12  pinout
+   13  nano led_Bruno_e_Willian.py
+   14  python3 led_Bruno_e_Willian.py 
+   15  nano led_Bruno_e_Willian.py
+   16  pip install gpiozero
+   17  nano led_Bruno_e_Willian.py
+   18  python3 led_Bruno_e_Willian.py 
+   19  nano led_Bruno_e_Willian.py
+   20  python3 led_Bruno_e_Willian.py 
+   21  nano led_Bruno_e_Willian.py
+   22  python3 led_Bruno_e_Willian.py 
+   23  nano led_Bruno_e_Willian.py
+   24  python3 led_Bruno_e_Willian.py 
+   25  nano led_Bruno_e_Willian.py
+   26  python3 led_Bruno_e_Willian.py 
+   27  nano led_Bruno_e_Willian.py
+   28  python3 led_Bruno_e_Willian.py 
+   29  ls
+   30  ls Documentos/
+   31  cd Documentos/
+   32  ls
+   33  python-3 -m venv bruno_e_will
+   34  python3 -m venv bruno_e_will
+   35  source bruno_e_will/bin/activate
+   36  python
+   37  nano led_Bruno_e_Willian.py
+   38  python3 led_Bruno_e_Willian.py 
+   39  pip install gpiozero
+   40  pip install time
+   41  python3 led_Bruno_e_Willian.py 
+   42  nano led_Bruno_e_Willian.py
+   43  dectivate
+   44  deactivate
+   45  cd ..
+   46  ls
+   47  mkdir sel0337
+   48  cd sel0337/
+   49  python3 -m venv 0791
+   50  source 0781/bin/activate
+   51  source 0791/bin/activate
+   52  pip freeze
+   53  pip install gpiozero
+   54  cd 0791
+   55  ls
+   56  cd bin
+   57  ls
+   58  cd ..
+   59  nano led_Bruno_e_Willian.py
+   60  python3 led_Bruno_e_Willian.py 
+   61  nano led_Bruno_e_Willian.py
+   62  python3 led_Bruno_e_Willian.py 
+   63  nano led_Bruno_e_Willian.py
+   64  python3 led_Bruno_e_Willian.py 
+   65  grep RPi
+   66  pip install RPi.GPIO
+   67  nano led_Bruno_e_Willian_1.py 
+   68  history > historico_pratica_3_Bruno_e_Willian.txt
+   69  cat historico_pratica_3_Bruno_e_Willian.txt 
+   70  sudo shutdown now
+   71  ls
+   72  cd sel0337_02
+   73  cd sel0337_02/
+   74  cd sel0337_2/
+   75  python -m venv 9649
+   76  ls
+   77  source 9649/bin/activate
+   78  pip freeze
+   79  cd 9649/
+   80  sudo apt install python3-gpiozero
+   81  pip install gpiozero 
+   82  pinout
+   83  pip freeze
+   84  nano pisca_led.py
+   85  python3 pisca_led.py
+   86  nano pisca_led.py
+   87  python3 pisca_led.py
+   88  nano pisca_led.py
+   89  python3 pisca_led.py
+   90  nano pisca_led.py
+   91  python3 pisca_led.py
+   92  nano pisca_led.py
+   93  python3 pisca_led.py
+   94  nano pisca_led.py
+   95  python3 pisca_led.py
+   96  nano pisca_led.py
+   97  python3 pisca_led.py
+   98  nano pisca_led.py
+   99  python3 pisca_led.py
+  100  nano pisca_led.py
+  101  python3 pisca_led.py
+  102  nano pisca_led.py
+  103  python3 pisca_led.py
+  104  nano pisca_led.py
+  105  python3 pisca_led.py
+  106  nano pisca_led.py
+  107  python3 pisca_led.py
+  108  nano pisca_led.py
+  109  python3 pisca_led.py
+  110  nano pisca_led.py
+  111  python3 pisca_led.py
+  112  nano pisca_led.py
+  113  python3 pisca_led.py
+  114  nano pisca_led.py
+  115  python3 pisca_led.py
+  116  nano pisca_led.py
+  117  python3 pisca_led.py
+  118  nano pisca_led.py
+  119  python3 pisca_led.py
+  120  nano pisca_led.py
+  121  nano pwm.py
+  122  nano pisca_led.py
+  123  nano pwm.py
+  124  python3 pwm.py
+  125  nano pwm.py
+  126  python3 pwm.py
+  127  nano pwm.py
+  128  python3 pwm.py
+  129  nano pwm.py
+  130  python3 pwm.py
+  131  nano pwm.py
+  132  python3 pwm.py
+  133  nano pwm.py
+  134  python3 pwm.py
+  135  nano pwm.py
+  136  python3 pwm.py
+  137  nano pwm.py
+  138  python3 pwm.py
+  139  nano pisca_led.py
+  140  nano pwm.py
+  141  python3 pwm.py
+  142  nano pwm.py
+  143  python3 pwm.py
+  144  nano pwm.py
+  145  python3 pwm.py
+  146  exit
+  147  cd ls
+  148  cd sel0337
+  149  .txt
+  150  sudo shutdown now
+  151  pinout
+  152  nano pratica_04_Bruno_Will.py
+  153  vmf 
+  154  vemv
+  155  vev
+  156  vemf
+  157  ls
+  158  cd SEL0337/
+  159  ls
+  160  cd ..
+  161  cd sel0337_2/
+  162  çs
+  163  ls
+  164  cd .
+  165  cd..
+  166  cd ..
+  167  cd sel0337
+  168  ls
+  169  activate 0791/
+  170  venv 0791/'
+  171  ls
+  172  history
+  173  activate 0791/
+  174  cd 0791/
+  175  LS
+  176  ls
+  177  cd ..
+  178  source 0791/bin/activate
+  179  nano Pratica_04_Bruno_William.py 
+  180  python3 Pratica_04_Bruno_William.py 
+  181  nano Pratica_04_Bruno_William.py 
+  182  python3 Pratica_04_Bruno_William.py 
+  183  nano Pratica_04_Bruno_William.py 
+  184  python3 Pratica_04_Bruno_William.py 
+  185  nano Pratica_04_Bruno_William.py 
+  186  python3 Pratica_04_Bruno_William.py 
+  187  nano Pratica_04_Bruno_William.py 
+  188  python3 Pratica_04_Bruno_William.py 
+  189  nano Pratica_04_Bruno_William.py 
+  190  python3 Pratica_04_Bruno_William.py 
+  191  pip upgrade RPi.GPIO
+  192  pip update RPi.GPIO
+  193  pip install RPi.GPIO
+  194  nano Pratica_04_Bruno_William.py 
+  195  python3 Pratica_04_Bruno_William.py 
+  196  nano Pratica_04_Bruno_William.py 
+  197  python3 Pratica_04_Bruno_William.py 
+  198  nano Pratica_04_Bruno_William.py 
+  199  python3 Pratica_04_Bruno_William.py 
+  200  nano Pratica_04_Bruno_William.py 
+  201  python3 Pratica_04_Bruno_William.py 
+  202  nano Pratica_04_Bruno_William.py 
+  203  python3 Pratica_04_Bruno_William.py 
+  204  nano Pratica_04_Bruno_William.py 
+  205  python3 Pratica_04_Bruno_William.py 
+  206  nano Pratica_04_Bruno_William.py 
+  207  python3 Pratica_04_Bruno_William.py 
+  208  nano Pratica_04_Bruno_William.py 
+  209  python3 Pratica_04_Bruno_William.py 
+  210  nano Pratica_04_Bruno_William.py 
+  211  python3 Pratica_04_Bruno_William.py 
+  212  nano Pratica_04_Bruno_William.py 
+  213  python3 Pratica_04_Bruno_William.py 
+  214  nano Pratica_04_Bruno_William.py 
+  215  python3 Pratica_04_Bruno_William.py 
+  216  nano Pratica_04_Bruno_William.py 
+  217  python3 Pratica_04_Bruno_William.py 
+  218  nano Pratica_04_Bruno_William.py 
+  219  python3 Pratica_04_Bruno_William.py 
+  220  nano Pratica_04_Bruno_William.py 
+  221  python3 Pratica_04_Bruno_William.py 
+  222  nano Pratica_04_Bruno_William.py 
+  223  python3 Pratica_04_Bruno_William.py 
+  224  nano Pratica_04_Bruno_William.py 
+  225  python3 Pratica_04_Bruno_William.py 
+  226  nano Pratica_04_Bruno_William.py 
+  227  python3 Pratica_04_Bruno_William.py 
+  228  nano Pratica_04_Bruno_William.py 
+  229  python3 Pratica_04_Bruno_William.py 
+  230  nano Pratica_04_Bruno_William.py 
+  231  python3 Pratica_04_Bruno_William.py 
+  232  nano Pratica_04_Bruno_William.py 
+  233  python3 Pratica_04_Bruno_William.py 
+  234  history > Bruno_Will_pratia_04
+  235  ls
+  236  nano Bruno_Will_pratia_04 
+  237  mkdir workce
+  238  cd workce
+  239  python3 -m 2181
+  240  python3 -m venv 2181 
+  241  source 2181/bin/active
+  242  source 2181/bin/activate
+  243  Python
+  244  sudo Python
+  245  apt python3-pip
+  246  apt
+  247  python3-pip
+  248  python3
+  249  touch led.py
+  250  nano led.py
+  251  python3 led.py
+  252  pip install python3-rpi.gpio
+  253  pip upgrade RPi.GPIO
+  254  pip install RPi.GPIO
+  255  python3 led.py
+  256  pip install gpiozero
+  257  python3 led.py
+  258  nano led.py
+  259  python3 led.py
+  260  touch input.py
+  261  thonny input.py
+  262  history > prtica2.txt
+  263  p
+  264  prtica2.txt tail 26 > pratica2.txt
+  265  tail -26 prtica.txt > pratica2.txt
+  266  tail -26 prtica2.txt > pratica2.txt
+  267  htop
+  268  sudo apt install git
+  269  sudo apt autoremove
+  270  git --version
+  271  git config --global user.name "sel"
+  272  git config --global user.email "email@sel"
+  273  git clone https://github.com/Murilotrevisan/SFSPT-Flask-Post-Test.git
+  274  git clone https://github.com/public-apis/public-apis.git
+  275  ls
+  276  cd public-apis/
+  277  ls
+  278  git clone https://github.com/Murilotrevisan/SFSPT-Flask-Post-Test.git
+  279  sudo raspi-config
+  280  raspistill
+  281  raspistill -o Desktop/image.jpg
+  282  raspistill -o Desktop/image.jpg -w 640 -h 480
+  283  ls
+  284  cd p4
+  285  python3 -m venv 9526
+  286  source 9526/bin/activate
+  287  pyhton3 algo.py
+  288  python3 algo.py
+  289  pip install RPi.GPIO
+  290  python3 algo.py
+  291  pinout
+  292  python3 algo.py]
+  293  python3 algo.py
+  294  nano algo.py 
+  295  python3 algo.py
+  296  nano algo.py 
+  297  python3 algo.py
+  298  thonny algo.py 
+  299  clear
+  300  python3 algo.py 
+  301  thonny algo.py 
+  302  thonny algo2.py
+  303  python3 algo2.py
+  304  thonny algo2.py
+  305  python3 algo2.py
+  306  sudo apto install python3-venv
+  307  sudo apt install python3-venv
+  308  python3 -m venv 7652550
+  309  ls
+  310  cd 7652550
+  311  nano
+  312  cd
+  313  cd 7652550
+  314  source 7652550/bin/activate
+  315  cd
+  316  source 7652550/bin/activate
+  317  ls
+  318  nano
+  319  ls
+  320  PWM_LED.py
+  321  python3 PWM_LED.py
+  322  sudo apt install python3-pip
+  323  python3 PWM_LED.py
+  324  cd
+  325  cd :
+  326  :
+  327  cd ..
+  328  ls
+  329  cd sel
+  330  sudo apt install python3-gpiozero
+  331  sudo apt install python3-RPi.GPIO
+  332  python3 PWM_LED.py
+  333  nano PWM_LED.py
+  334  python3 PWM_LED.py
+  335  nano PWM_LED.py
+  336  python3 PWM_LED.py
+  337  pip install RPi.GPIO
+  338  python3 PWM_LED.py
+  339  nano PWM_LED.py
+  340  python3 PWM_LED.py
+  341  nano PWM_LED.py
+  342  python3 PWM_LED.py
+  343  nano PWM_LED.py
+  344  python3 PWM_LED.py
+  345  nano PWM_LED.py
+  346  python3 PWM_LED.py
+  347  nano PWM_LED.py
+  348  python3 PWM_LED.py
+  349  nano PWM_LED.py
+  350  python3 PWM_LED.py
+  351  nano PWM_LED.py
+  352  python3 PWM_LED.py
+  353  nano PWM_LED.py
+  354  python3 PWM_LED.py
+  355  nano PWM_LED.py
+  356  python3 PWM_LED.py
+  357  nano PWM_LED.py
+  358  python3 PWM_LED.py
+  359  nano PWM_LED.py
+  360  python3 PWM_LED.py
+  361  nano PWM_LED.py
+  362  python3 PWM_LED.py
+  363  nano PWM_LED.py
+  364  python3 PWM_LED.py
+  365  nano PWM_LED.py
+  366  python3 PWM_LED.py
+  367  nano PWM_LED.py
+  368  python3 PWM_LED.py
+  369  history > historico_pratica_4.txt
+  370  python3 PWM_LED.py
+  371  nano PWM_LED.py
+  372  python3 PWM_LED.py
+  373  nano PWM_LED.py
+  374  ls
+  375  cd SEL0337
+  376  ls
+  377  pinout
+  378  sudo pip install virtualenv
+  379  python3 -m venv flafe
+  380  source flafe/bin/activate
+  381  pip install RPi.GPIO
+  382  nano flafe.py
+  383  python3 flafe.py
+  384  nano flafe.py
+  385  python3 flafe.py
+  386  nano flafe.py
+  387  python3 flafe.py
+  388  nano flafe.py
+  389  python3 flafe.py
+  390  nano flafe.py
+  391  python3 flafe.py
+  392  nano flafe.py
+  393  python3 flafe.py
+  394  nano flafe.py
+  395  python3 flafe.py
+  396  nano flafe.py
+  397  python3 flafe.py
+  398  nano flafe.py
+  399  python3 flafe.py
+  400  nano flafe.py
+  401  python3 flafe.py
+  402  nano flafe.py
+  403  python3 flafe.py
+  404  nano flafe.py
+  405  python3 flafe.py
+  406  nano flafe.py
+  407  python3 flafe.py
+  408  nano flafe.py
+  409  python3 flafe.py
+  410  nano flafe.py
+  411  python3 flafe.py
+  412  nano flafe.py
+  413  python3 flafe.py
+  414  nano flafe.py
+  415  python3 flafe.py
+  416  nano flafe.py
+  417  python3 flafe.py
+  418  nano flafe.py
+  419  python3 flafe.py
+  420  nano flafe.py
+  421  python3 flafe.py
+  422  nano flafe.py
+  423  python3 flafe.py
+  424  nano flafe.py
+  425  python3 flafe.py
+  426  nano flafe.py
+  427  python3 flafe.py
+  428  nano flafe.py
+  429  python3 flafe.py
+  430  nano flafe.py
+  431  python3 flafe.py
+  432  nano flafe.py
+  433  python3 flafe.py
+  434  nano flafe.py
+  435  quit() quit
+  436  python3 botao.py
+  437  nano botao.py
+  438  fg
+  439  python3 botao.py
+  440  nano botao.py
+  441  python3 botao.py
+  442  nano botao.py
+  443  python3 botao.py
+  444  9
+  445  nano botao.py
+  446  pinout
+  447  nano botao.py
+  448  python3 botao.py
+  449  5
+  450  python3 botao.py
+  451  1
+  452  2
+  453  nano botao.py
+  454  python3 botao.py
+  455  nano botao.py
+  456  python3 botao.py
+  457  1
+  458  nano botao.py
+  459  python3 botao.py
+  460  nano botao.py
+  461  python3 botao.py
+  462  ssh
+  463  ssh pedro@52.67.110.156 -p 43022
+  464  sudo reboot now
+  465  sudo raspi-config 
+  466  sudo reboot
+  467  gpg --list-secret-keys --keyid-format=long
+  468  $ gpg --armor --export E478070DC6E5710BB61930998EDE2666A15D3696
+  469  $ gpg --armor --export 8EDE2666A15D3696
+  470  gpg --armor --export 8EDE2666A15D3696
+  471  gpg -list-keys
+  472  gpg --list-keys
+  473  gpg --full-generate-key
+  474  cat '/home/sel/.gnupg/openpgp-revocs.d/E478070DC6E5710BB61930998EDE2666A15D3696.rev'
+  475  cd mep/
+  476  ls
+  477  cat token.txt 
+  478  ls
+  479  mkdir mep
+  480  cd mep
+  481  python3 -m venv p6
+  482  git status
+  483  ls
+  484  cd p6/
+  485  git status
+  486  git add .
+  487  git commit -m "Adicionando a camera.py"
+  488  git status
+  489  git add .
+  490  git commit -m "Camera com rotacao de 180 graus"
+  491  git add .
+  492  git commit -m "Camera translucida"
+  493  git status
+  494  pwd
+  495  git add .
+  496  git commit -m "Camera com flip e varias fotos"
+  497  git add .
+  498  git commit -m "Video de 5 segundos"
+  499  git add .
+  500  git status
+  501  git restore --staged clima.py
+  502  git status
+  503  git commit -m "Adicionando foto com texto e video curto"
+  504  git add .
+  505  git commit -m "Adicionando clima.py"
+  506  git add . camera.py 
+  507  git status
+  508  git restore --staged clima.py
+  509  git commit -m "Mudando nome da foto do grupo e do video"
+  510  git add . 
+  511  git commit -m "Recuperando informacoes climaticas"
+  512  git add . 
+  513  git commit -m "Foto com informacoes do clima"
+  514  git push origin main
+  515  sudo shutdown now
+  516  cd mep/
+  517  cat token.txt 
+  518  raspistill -o ~/Desktop/
+  519  raspistill -o ./img
+  520  ls
+  521  open img 
+  522  raspistill -o ./img
+  523  open img 
+  524  raspistill -o ./img
+  525  raspistill -o ./imgs
+  526  open imgs
+  527  source p6/bin/activate
+  528  pip install PiCamera
+  529  pip install requests
+  530  pip install json
+  531  pip install Json
+  532  pip install pprint
+  533  echo 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 > token.txt
+  534  ls
+  535  cat toekn
+  536  cat token
+  537  cat token.txt 
+  538  ls
+  539  cd p6
+  540  ls
+  541  git init
+  542  git commit -m "first commit"
+  543  git add .
+  544  git commit -m "first commit"
+  545  git branch -M main
+  546  git remote add origin git@github.com:PedroRibasSerras/SEL0630.git
+  547  git push -u origin main
+  548  git remote remove origin
+  549  git remote add origin https://github.com/PedroRibasSerras/SEL0630.git
+  550  git push -u origin main
+  551  git status
+  552  ls
+  553  thonny
+  554  ls
+  555  tourch camera.py
+  556  touch camera.py
+  557  ls
+  558  thonny camera.py 
+  559  cd Downloads/
+  560  ls
+  561  python i2c_test.py 
+  562  ls
+  563  cd Downloads/
+  564  ls
+  565  sudo chmod a+x arduino-ide_2.0.2_Linux_64bit.AppImage 
+  566  ./arduino-ide_2.0.2_Linux_64bit.AppImage 
+  567  cd Downloads/
+  568  ls
+  569  cd arduino-ide_2.0.2_Linux_64bit/
+  570  ls
+  571  ./arduino-ide 
+  572  neofetch
+  573  sudo sudo raspi-config
+  574  cd
+  575  cd ..
+  576  list
+  577  ls
+  578  cd sel
+  579  ls
+  580  cd Desktop/
+  581  mkdir Pratica6
+  582  python3 venv -m pratica6
+  583  python3 -m venv pratica6
+  584  source pratica6/bin/activate
+  585  pip install PiCamera
+  586  pip install requests
+  587  pip install json
+  588  pip install pprint
+  589  raspistill
+  590  nano codigocamera1.py
+  591  quit
+  592  quit()
+  593  venv quit
+  594  exit
+  595  cd ..
+  596  cd sel/Desktop/
+  597  mkdir Pratica6
+  598  cd Pratica6/
+  599  python3 -m venv pratica6
+  600  source pratica6/bin/activate
+  601  pip install PiCamera
+  602  pip install reqeusts
+  603  pip install requests
+  604  nano praticacamera.py
+  605  clear
+  606  pip install opencv
+  607  pip install opencv2
+  608  pip install open-cv2
+  609  clear
+  610  git init
+  611  git status
+  612  git add praticacamera.py
+  613  git add pratica6/
+  614  git commit -m "importando venv"
+  615  git status
+  616  git show
+  617  clear
+  618  git status
+  619  cd Desktop/Pratica6/
+  620  git init
+  621  git push
+  622  git commit praticacamera.py
+  623* 
+  624  git commit praticacamera.py
+  625  git add praticacamera.py 
+  626  git status
+  627  clear
+  628  git commit praticacamera.py 
+  629  git status
+  630  git push
+  631  git push -m "nova versao"
+  632  git push -o "nova versao"
+  633  git push -o "nova versao" https://github.com/HadlerHT/SEL0337
+  634  git push --set-upstreamm 200~https://github.com/HadlerHT/SEL0337 master
+  635  git push --set-upstreamm https://github.com/HadlerHT/SEL0337 master
+  636  git push --set-upstream https://github.com/HadlerHT/SEL0337 master
+  637  raspstill -o image.png
+  638  raspistill -o image.png
+  639  git add -a
+  640  git add --all
+  641  git status
+  642  git commit
+  643  git push 
+  644  git add --all
+  645  git status
+  646  history > hist.txt
