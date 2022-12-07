@@ -10,7 +10,7 @@ O código simula uma base meteorológica amadora na RaspberryPi. Os dados climá
 
 ### Código:
 O funcionamento do código depende do uso das bibliotecas `json`, `requests`, `pprint`, `time` e `picamera`. Caso essas bibliotecas não estejam disponíveis, executar os seguintes comandos no Bash:
-```bash
+```
 pip install json
 pip install requests
 pip install pprint
