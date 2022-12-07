@@ -22,4 +22,6 @@ No arquivo `pratica6.py` está o código do projeto comentado.
 ### Imagem e Vídeo:
 Os arquivos `foto.jpg` e `video.h264` são a foto e o vídeo obtidos durante a realização da prática no laboratório, respectivamente. Neles estão anotados os nomes dos alunos e seus números USP.
 
+### Histórico de Comandos:
+No arquivo `hist.txt` está disponível o histórico dos comandos inseridos no Bash.
 
