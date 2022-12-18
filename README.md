@@ -23,7 +23,7 @@ pip install picamera
 * __API__:
 A coleta dos dados meteorológicos é feita pela função `get(endereco)` que envia uma requisição GET ao `endereco` especificado. Os dados solicitados são retornados no formato JSON que são decodificados pelo método `.json()` resultando em uma variável dicionário. A função `pprint` imprime os dados do dicionario formatados no terminal.
 
-* __Camera__:
+* __Câmera__:
 Uma instância da câmera é inicalizada com comando `with PiCamera as camera:`. Esse objeto conta com o método `.annotate_text` que permite escrever uma mensagem sobrescrita na imagem capturada pelo sensor. O método `.resolution` define a resolução da imagem da câmera; esse parâmetro varia para operação como foto e como vídeo. O método `.capture` salva a imagem da câmera, enquanto o `.start_recording` e `.stop_recording` permitem a gravação do vído.
 
 ### Imagem e Vídeo:
